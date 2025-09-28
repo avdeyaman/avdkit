@@ -34,7 +34,7 @@
 
 1. **Скачайте последнюю версию** из [Releases](https://github.com/avdeyaman/avdkit/releases)
 2. **Распакуйте архив** в удобное место
-3. **Запустите** `AVDKitSetup.exe`
+3. **Запустите** `AVDKit.exe`
 
 ### Первый запуск
 
